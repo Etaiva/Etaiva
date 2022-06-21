@@ -1,9 +1,4 @@
-### My name is Etienne
-You can contact me on my LinkedIn profile https://www.linkedin.com/in/etienne-pretorius/
 
-I am developing my knowledge base from an advanced skillset in Microsoft Excel into functional data analysis by learning SQL and R.
-I have many years experience using advanced Excel. I have a resume of business experience and degrees (Masters) which serve to understand the data, explain it, and visualise it for the client.
-I am interested in collaborating, acquiring opensource data bases, and in return sharing my knowledge of business and freelancing.
 <!--
 **Etaiva/Etaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
