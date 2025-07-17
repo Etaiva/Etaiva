@@ -1,5 +1,3 @@
-My name is Etienne Pretorius. 
-You can find me on my LinkedIn profile at https://www.linkedin.com/in/etienne-pretorius/
 This profile serves as a repository for my learning curve in terms of cybersecurity, dev, data and AI. 
 I am self taught, but have a resume in terms of business analysis and business management.
 <!--
