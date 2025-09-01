@@ -1,5 +1,5 @@
 This profile serves as a repository for my learning curve in terms of cybersecurity, dev, data and AI. 
-I am self taught, but have a resume in terms of business analysis and business management.
+I am self taught, but have a resume showing business management.
 <!--
 **Etaiva/Etaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
