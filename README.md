@@ -27,7 +27,7 @@ This profile serves as a repository for my journey and insights as I learn and c
 
 ---
 
-## **Breakdown of AI Governance, Responsible AI, and Ethical AI.**
+## **Breakdown of Cybersecurity.**
 
 ### **Key Sectors Within Cybersecurity**
 *   **Network Security:** Firewalls, IDS/IPS, VPNs
