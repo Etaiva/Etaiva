@@ -4,7 +4,7 @@ My current mission is to develop and implement frameworks for AI Governance, Res
 
 This profile serves as a repository for my journey and insights as I learn and contribute to building a more trustworthy digital future.
 
-#### **Here is a concise breakdown of AI Governance, Responsible AI, and Ethical AI.**
+## **Here is a concise breakdown of AI Governance, Responsible AI, and Ethical AI.**
 
 ### **AI Governance**
 *   **Key Sectors:** Policy & Regulation, Risk Management, Model Oversight, Compliance Monitoring, Lifecycle Management
@@ -27,7 +27,7 @@ This profile serves as a repository for my journey and insights as I learn and c
 
 ---
 
-#### ***Here is a concise breakdown of AI Governance, Responsible AI, and Ethical AI.***
+## **Here is a concise breakdown of AI Governance, Responsible AI, and Ethical AI.**
 
 ### **Key Sectors Within Cybersecurity**
 *   **Network Security:** Firewalls, IDS/IPS, VPNs
