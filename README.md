@@ -1,5 +1,8 @@
-## **Strategic Governance Architect | Responsible AI & ESG Advisor | Boardroom Integrity™ | Enterprise Diagnostics™ & Turnaround Specialist | AI Ethics & Compliance Leader**
-Strategic Governance Architect | Responsible AI & ESG Advisor | Company Founder
+## **Strategic Governance & Responsible AI Advisor**
+*   Strategic Governance Architect
+*   Responsible AI & ESG Advisor
+*   AI Ethics & Compliance Leader
+*   Strategic Turnaround Specialist
 
 This profile serves as a repository for my journey and insights as I learn and contribute to building a more trustworthy digital future.
 
