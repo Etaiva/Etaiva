@@ -1,6 +1,5 @@
-Seasoned professional in business management, legal compliance, and corporate governance, now expanding my expertise into the critical fields of AI Governance, Responsible AI, and Ethical AI. I am building a focused skillset in cybersecurity and applied AI to develop robust frameworks that ensure technology is secure, fair, and accountable. This profile documents my learning journey and contributions at this intersection.
-
-My current mission is to develop and implement frameworks for AI Governance, Responsible AI, and Ethical AI. I am actively building my technical proficiency in cybersecurity and coding—not necessarily to become an engineer, but to effectively bridge the gap between technical execution and strategic oversight. This ensures that AI systems are not only innovative but also secure, ethical, and aligned with organizational values and regulatory standards.
+# **Strategic Governance Architect | Responsible AI & ESG Advisor | Boardroom Integrity™ | Enterprise Diagnostics™ & Turnaround Specialist | AI Ethics & Compliance Leader**
+Strategic Governance Architect | Responsible AI & ESG Advisor | Company Founder
 
 This profile serves as a repository for my journey and insights as I learn and contribute to building a more trustworthy digital future.
 
